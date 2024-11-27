@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-# Full Stack Developer Profile
-
- I am a passionate Full Stack Developer with expertise in building web applications. With a focus on both front-end and back-end development, I am dedicated to delivering high-quality and scalable solutions. 
-
----
-
 ## 🚀 About Me
 
 Welcome to my profile! I am a full-stack developer with 3+ years of IT experience. From designing seamless user experiences to building robust back-end systems, I have a passion for solving real-world problems across renewables domain.
@@ -45,7 +39,7 @@ I am always open to collaborations, feedback, and learning opportunities. If you
 ---
 
 ## 📈 GitHub Stats
-https://github-readme-stats.vercel.app/api/top-langs?username=krupapatel98&show_icons=true&locale=en&layout=compact 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krupapatel98&show_icons=true&locale=en&layout=compact" alt="sharvika0504" /></p>
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=krupapatel98&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ---
