@@ -21,28 +21,22 @@ Here are some ideas to get you started:
 Welcome to my profile! I am a full-stack developer with 3+ years of IT experience. From designing seamless user experiences to building robust back-end systems, I have a passion for solving real-world problems across renewables domain.
 I continuously strive to learn and improve my skills, always keeping an eye on new trends and technologies to stay ahead in the development world. I believe in writing clean, efficient code and implementing best practices in every project I work on.
 
----
+
 
 ## 🧰 Skills
 
 
----
-
-
----
 ## 📫 Contact Me
 
 I am always open to collaborations, feedback, and learning opportunities. If you want to connect or need assistance with a project, feel free to reach out:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/krupanpatel03/)
-
----
+**LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/krupanpatel03/)
 
 ## 📈 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krupapatel98&show_icons=true&locale=en&layout=compact" alt="sharvika0504" /></p>
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=krupapatel98&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
----
+https://github-readme-stats.vercel.app/api?username=krupapatel98&show_icons=true&hide_title=true&count_private=true&theme=radical 
+
 
 
 Thank you for visiting my profile! Feel free to explore my work and connect with me for any potential collaboration. Let’s build something amazing together! 😊
