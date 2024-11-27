@@ -30,6 +30,8 @@ I continuously strive to learn and improve my skills, always keeping an eye on n
 
 <img src="https://img.shields.io/badge/Angular-FF0000?logo=angular&logoColor=white" width="120" />
 [<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" width="200" />]
+
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
