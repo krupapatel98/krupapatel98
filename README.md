@@ -35,8 +35,7 @@ I am always open to collaborations, feedback, and learning opportunities. If you
 ## 📈 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krupapatel98&show_icons=true&locale=en&layout=compact" alt="sharvika0504" /></p>
 
-https://github-readme-stats.vercel.app/api?username=krupapatel98&show_icons=true&hide_title=true&count_private=true&theme=radical 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krupapatel98&show_icons=true&locale=en" alt="sharvika0504" /></p>
 
 
 Thank you for visiting my profile! Feel free to explore my work and connect with me for any potential collaboration. Let’s build something amazing together! 😊
