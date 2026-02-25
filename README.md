@@ -1,43 +1,48 @@
 ## Hi there 👋, I'm Krupa Nitin Patel
 
-<!--
-**krupapatel98/krupapatel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am an IT professional with 4.5+ years of experience in Java backend development and currently pursuing an MSc in Computing (Data Analytics). I have growing expertise in Python, data analytics, machine learning, and cloud-native technologies.
 
-Here are some ideas to get you started:
+I love building scalable backend systems, data-driven solutions, and automating processes that make a real impact. I’m always exploring new technologies and best practices to write clean, efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+### Programming & Scripting
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="30"/>
+
+### Frameworks & Libraries
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" height="30"/> 
+
+### Databases
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="30"/> 
+
+### Cloud & DevOps
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/Helm-0F1420?logo=helm&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="30"/> 
+
+---
 
 
-## 🚀 About Me
 
-Welcome to my profile! I am a full-stack developer with 3+ years of IT experience. From designing seamless user experiences to building robust back-end systems, I have a passion for solving real-world problems across renewables domain.
-I continuously strive to learn and improve my skills, always keeping an eye on new trends and technologies to stay ahead in the development world. I believe in writing clean, efficient code and implementing best practices in every project I work on.
-
-
-
-## 🧰 Skills
-
-<img src="https://img.shields.io/badge/Angular-FF0000?logo=angular&logoColor=white" width="75" height ="35" />  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" width="75" height ="35"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" width="75" height ="35"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" width="75" height ="35" />  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" width="75" height ="35"/>  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" width="75" height ="35"/>  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" width="75" height ="35" />  <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" width="75" height ="35" /> <img src="https://img.shields.io/badge/Microservices-42A5F5?logo=docker&logoColor=white" width="75" height ="35" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" width="75" height ="35" />  <img src="https://img.shields.io/badge/JPA-1B9E77?logo=hibernate&logoColor=white" width="75" height ="35" />  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" width="75" height ="35" /> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" width="75" height ="35" />  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" width="75" height ="35" />  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" width="75" height ="35" />  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" width="75" height ="35" />  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" width="75" height ="35" />  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" width="75" height ="35" /> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" width="75" height ="35" />  
 
 
 ## 📫 Contact Me
+I’m always open to collaborations, feedback, and networking. Reach out to me here:
 
-I am always open to collaborations, feedback, and learning opportunities. If you want to connect or need assistance with a project, feel free to reach out:
+**LinkedIn**: [Krupa Nitin Patel](https://www.linkedin.com/in/krupanpatel03/)  
 
-**LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/krupanpatel03/)
+---
 
-## 📈 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krupapatel98&show_icons=true&locale=en&layout=compact" alt="sharvika0504" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krupapatel98&show_icons=true&locale=en" alt="sharvika0504" /></p>
-
-
-Thank you for visiting my profile! Feel free to explore my work and connect with me for any potential collaboration. Let’s build something amazing together! 😊
+Thank you for visiting my profile! Let's connect and build something amazing together! 😊
